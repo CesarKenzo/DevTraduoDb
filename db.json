@@ -1,0 +1,152 @@
+{
+  "posts_responses": [
+    {
+      "id": "Jorge2002",
+      "identificador_origin": "Shyrlei2002/post1",
+      "texto_response": "Salve!",
+      "idioma": "Português",
+      "tipo": "Cloud computing",
+      "identificador_post": "response1",
+      "tipo_post": "explanation"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Tradução: 'What is artificial intelligence?'",
+      "createdBy": "Shyrlei2002",
+      "language": "Inglês",
+      "description": "In its simplest form, artificial intelligence is a field that combines computer science and robust datasets to enable problem-solving. Expert systems, an early successful application of AI, aimed to copy a human’s decision-making process. In the early days, it was time-consuming to extract and codify the human’s knowledge.",
+      "categories": [
+        "Inteligência Artificial"
+      ],
+      "likes": 11
+    },
+    {
+      "id": 2,
+      "title": "Explicação: O que é banco de dados?",
+      "createdBy": "Shyrlei2002",
+      "language": "Inglês",
+      "description": "New post here people!",
+      "categories": [
+        "Big Data",
+        "Programação"
+      ],
+      "likes": 12
+    },
+    {
+      "id": 3,
+      "title": "Explicação: O que é um sistema embarcado?",
+      "createdBy": "Shyrlei2002",
+      "language": "Francês",
+      "description": "Another post \\(`><´)/",
+      "categories": [
+        "Cloud computing",
+        "Segurança da informação",
+        "Arquitetura",
+        "Projetos",
+        "Suporte Técnico"
+      ],
+      "likes": 0
+    },
+    {
+      "id": 4,
+      "title": "Teste",
+      "createdBy": "Shyrlei",
+      "language": "Inglês",
+      "description": "Teste",
+      "categories": [
+        "Cloud computing",
+        "Segurança da informação"
+      ],
+      "likes": 0
+    }
+  ],
+  "usersDev": [
+    {
+      "id": "Shyrlei2002",
+      "nome": "Shyrlei",
+      "login": "Shyrlei2002",
+      "senha": "testesenha",
+      "profissao": "PhD em ciência da computação pela Universidade de Carnegie Mellon e especialista em segurança no projeto Network Attached Secure Disks.",
+      "conhecimentos": "Java, JavaScript, Ruby e Angular.",
+      "conteudo": "programador iniciante.",
+      "areas": [
+        "asd",
+        "gddfb"
+      ]
+    },
+    {
+      "id": "Jorge2002",
+      "nome": "Jorge",
+      "login": "Jorge2002",
+      "senha": "testesenha",
+      "profissao": "PhD em ciência da computação pela Universidade de Carnegie Mellon e especialista em segurança no projeto Network Attached Secure Disksss.",
+      "conhecimentos": "Java, JavaScript, Ruby e Angular.",
+      "conteudo": "programador iniciante.",
+      "areas": [
+        "asd",
+        "gddfb"
+      ]
+    },
+    {
+      "id": "CesarUser",
+      "nome": "Cesar",
+      "login": "CesarLogin",
+      "senha": "312",
+      "profissao": "",
+      "conhecimentos": "",
+      "conteudo": "",
+      "areas": [
+        "",
+        ""
+      ]
+    },
+    {
+      "id": "HenryId",
+      "nome": "Henrique",
+      "login": "HenryUser",
+      "senha": "321",
+      "profissao": "PhD em ciência",
+      "conhecimentos": "",
+      "conteudo": "",
+      "areas": [
+        "",
+        ""
+      ]
+    },
+    {
+      "id": "FelipeUser",
+      "nome": "Felipe",
+      "login": "FelipeUser",
+      "senha": "123",
+      "profissao": "",
+      "conhecimentos": "",
+      "conteudo": "",
+      "areas": [
+        "",
+        ""
+      ]
+    }
+  ],
+  "postComment": [
+    {
+      "postId": 1,
+      "userLogin": "Shyrlei2002",
+      "content": "Em sua forma mais simples, a inteligência artificial é um campo que combina ciência da computação e conjuntos de dados robustos para permitir a solução de problemas. Os sistemas especialistas, uma das primeiras aplicações bem-sucedidas da IA, visavam copiar o processo de tomada de decisão de um ser humano. Nos primeiros dias, era demorado extrair e codificar o conhecimento humano.",
+      "type": "Tradução",
+      "postTitle": "O que é inteligência artificial?",
+      "postUser": "Shyrlei2002",
+      "id": 1
+    },
+    {
+      "postId": 1,
+      "userLogin": "Jorge2002",
+      "content": "IA, que significa inteligência artificial, refere-se a sistemas ou máquinas que mimetizam a inteligência humana para executar tarefas e podem se aprimorar iterativamente com base nas informações que eles coletam. A IA se manifesta de várias formas.",
+      "type": "Explicação",
+      "postTitle": "O que é inteligência artificial?",
+      "postUser": "Shyrlei2002",
+      "id": 2
+    }
+  ]
+}
